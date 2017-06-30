@@ -1,0 +1,175 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+// Variables
+@import "variables";
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+// Bootstrap Editable
+@import "bootstrap-editable";
+// Bootstrap Material design
+@import "bootstrap-material-design";
+@import "ripples";
+
+.products-container {
+    .product {
+        margin-top: 1em;
+    }
+}
+
+.product-img {
+    max-width: 100%;
+}
+
+.inputfile {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+.inputfile + label {
+    font-size: 1.25em;
+    font-weight: 700;
+    color: white;
+    background-color: orange;
+    display: inline-block;
+    cursor: pointer; /* "hand" cursor */
+}
+
+.btn-success {
+    background-color: #2ab27b !important;
+    border-color: #259d6d !important;
+    color: white !important;
+}
+
+select.input-sm {
+    height: auto !important;
+}
+
+.sale-data {
+    padding: 1em;
+    text-align: center;
+    border-right: solid 1px #222;
+    span {
+        display: block;
+        font-size: 2.2em;
+        color: #3f51b5;
+    }
+}
+
+.created {
+    background-color: #54DA55;
+}
+
+.received {
+    background-color: #54DA55;
+}
+
+.send {
+    background-color: #54DA55;
+}
+
+.top-space {
+    margin-top: 1em;
+}
+
+.large-padding {
+    padding: 10px 15px;
+}
+
+.line-height20 {
+    line-height: 20px;
+}
+
+.line-height22 {
+    line-height: 30px;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.product {
+    position: relative;
+
+    width: 600px;
+    max-width: 100%;
+    padding: 1em;
+
+    h1 {
+        padding-bottom: 10px;
+        border-bottom: solid 1px;
+    }
+    .actions {
+        top: 10px;
+        right: 1em;
+    }
+}
+
+.no-transform {
+    text-transform: none;
+}
+
+.red-text {
+    color: red;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.no-padding {
+    padding: 0px;
+}
+
+.no-margin {
+    margin: 0px;
+}
+
+.floating {
+    position: fixed;
+    right: 2em;
+    bottom: 2em;
+    z-index: 100;
+}
+
+.white {
+    background-color: white;
+}
+
+.big-padding {
+    padding: 30px;
+}
+
+.blue-grey {
+    background-color: #37474f;
+}
+
+.white-text {
+    color: white;
+}
+
+.table {
+    background-color: white;
+}
+
+body {
+    line-height: 0;
+}
+
+.navbar {
+    margin: 0px;
+}
+
+.btn-info {
+    background: #03a9f4;
+    color: white !important;
+}
+
+.btn:not(.btn-raised) {
+    
+}

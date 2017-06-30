@@ -1,0 +1,513 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"lin",
+				"line-height20\t(app.scss)"
+			],
+			[
+				"users",
+				"usersCount"
+			],
+			[
+				"shopp",
+				"shoppingCarts"
+			],
+			[
+				"sele",
+				"select-status\t(index.blade.php)"
+			],
+			[
+				"set",
+				"set-guide-number\t(index.blade.php)"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"total",
+				"totalMonthCount"
+			],
+			[
+				"O",
+				"OrdersController\t(OrdersController.php)"
+			],
+			[
+				"upda",
+				"updateCustomIDAndStatus"
+			],
+			[
+				"Pay",
+				"PaypalPayment"
+			],
+			[
+				"P",
+				"PaypalPayment"
+			],
+			[
+				"Shopp",
+				"ShoppingCart"
+			],
+			[
+				"shop",
+				"shopping_cart"
+			],
+			[
+				"produ",
+				"product_id"
+			],
+			[
+				"sho",
+				"shopping_cart"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"Sho",
+				"ShoppingCart"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"Prod",
+				"ProductsController"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bo",
+				"bootstrap"
+			],
+			[
+				"boot",
+				"bootstrap-material-design\t(app.blade.php)"
+			],
+			[
+				"boo",
+				"bootstrap-material-design\t(app.blade.php)"
+			],
+			[
+				"fit",
+				"fit_transform"
+			],
+			[
+				"Pass",
+				"PasswordIsInCorrect"
+			],
+			[
+				"wr",
+				"write\tfunction"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 210.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Color Picker"
+			],
+			[
+				"clean",
+				"CleanCSS: Clean current file"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/assets/js/app.js",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/inShoppingCarts/form.blade.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/main/home.blade.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/products/show.blade.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Controllers/MainController.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Product.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/assets/sass/app.scss",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/routes/web.php",
+		"/home/san/php-getting-started/Procfile",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/products/product.blade.php",
+		"/home/san/Downloads/1NEDB8BBVF.txt",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/products/index.blade.php",
+		"/home/san/ProgramFiles/JetBrains/PHPStorm/PhpStorm-171.4694.2/Install-Linux-tar.txt",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/public/css/app.css",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Controllers/ProductsController.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/database/migrations/2017_06_30_055414_add_column_extension_to_products.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/shoppingCarts/form.blade.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Controllers/OrdersController.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Providers/EventServiceProvider.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Mail/OrderCreated.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Order.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Mail/OrderUpdated.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/mailers/orderUpdated.blade.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/mailers/order.blade.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Controllers/ShoppingCartsController.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/.env",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/orders/index.blade.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Controllers/Auth/RegisterController.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Middleware/ValidateSignUp.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Middleware/VerifyCsrfToken.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Middleware/BuildShoppingCart.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Controllers/InShoppingCartsController.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/layouts/app.blade.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Kernel.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Middleware/ValidateFirstUserSignUp.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/assets/js/ripples.js",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/package.json",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/orders/show.blade.php",
+		"/home/san/.config/sublime-text-3/Packages/ColorPicker/lib/linux_colorpicker.py",
+		"/home/san/.config/sublime-text-3/Packages/User/ColorPicker.sublime-settings",
+		"/home/san/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/ShoppingCart.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/PayPal.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Controllers/PaymentsController.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/payments/index.blade.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/database/migrations/2017_06_29_160054_add_customid_column_to_shopping_carts.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/config/paypal_payment.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/database/migrations/2017_06_29_132153_create_orders_table.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Providers/ShoppingCartProvider.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/GIT/ecommerceLaravel/composer.json",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/composer.json",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/config/app.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/GIT/ecommerceLaravel/package.json",
+		"/home/san/ProgramFiles/myUbuntuScripts/lmakeview",
+		"/home/san/ProgramFiles/myUbuntuScripts/gitup",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Controllers/TryController.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/in_shopping_carts/form.blade.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/database/migrations/2017_06_29_000032_create_in_shopping_carts_table.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/GIT/ecommerceLaravel/app/Http/Middleware/BuildShoppingCart.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/GIT/ecommerceLaravel/app/Http/Controllers/MainController.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/GIT/ecommerceLaravel/app/Http/Controllers/HomeController.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/GIT/ecommerceLaravel/app/Http/Controllers/Controller.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Controllers/HomeController.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/products/delete.blade.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/database/migrations/2017_06_28_225057_create_shopping_carts_table.php",
+		"/home/san/.config/sublime-text-3/Packages/User/CleanCSS.sublime-settings",
+		"/home/san/.config/sublime-text-3/Packages/CleanCSS/CleanCSS.sublime-settings",
+		"/home/san/.config/sublime-text-3/Packages/User/CSScomb.sublime-settings",
+		"/home/san/.config/sublime-text-3/Packages/CSScomb/CSScomb.sublime-settings",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/assets/sass/csscomb.css",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/products/edit.blade.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/products/create.blade.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/products/form.blade.php",
+		"/home/san/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+		"/home/san/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/database/migrations/2017_06_28_191100_create_products_table.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/assets/sass/bootstrap-material-design.scss",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/public/css/app/app.css",
+		"/home/san/.config/sublime-text-3/Packages/SublimeAStyleFormatter/Default (Linux).sublime-keymap",
+		"/home/san/.config/sublime-text-3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/home/san/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/home/san/.config/sublime-text-3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/home/san/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/.env.example",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/node_modules/bootstrap-material-design/package.json",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Machine Learning A-Z Template Folder/Part 2 - Regression/Section 4 - Simple Linear Regression/MySimple_Linear_Regression/simple_linear_regression.py",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Machine Learning A-Z Template Folder/Part 1 - Data Preprocessing/MyData_Preprocessing/data_preprocessing_template.py",
+		"/home/san/.keyring.py"
+	],
+	"find":
+	{
+		"height": 57.0
+	},
+	"find_in_files":
+	{
+		"height": 139.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"right",
+			"right\t",
+			"right",
+			"product",
+			"productSize",
+			"Whoops, looks like something went",
+			"whoops, looks like something went",
+			"$cfg['Servers'][$i]['AllowRoot']",
+			"$cfg['Servers'][$i]['AllowRoot'] =     true;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app.scss",
+				"resources/assets/sass/app.scss"
+			],
+			[
+				"app.cs",
+				"public/css/app.css"
+			],
+			[
+				"web.php",
+				"routes/web.php"
+			],
+			[
+				"shoppingc",
+				"app/Http/Controllers/ShoppingCartsController.php"
+			],
+			[
+				"payment",
+				"ecommerce/app/Http/Controllers/PaymentsController.php"
+			],
+			[
+				"shoppin",
+				"ecommerce/app/ShoppingCart.php"
+			],
+			[
+				"web",
+				"ecommerce/routes/web.php"
+			],
+			[
+				"web.p",
+				"routes/web.php"
+			],
+			[
+				"produ",
+				"app/Product.php"
+			],
+			[
+				"shoppingcarts",
+				"app/Http/Controllers/ShoppingCartsController.php"
+			],
+			[
+				"app.php",
+				"config/app.php"
+			],
+			[
+				"sho",
+				"app/ShoppingCart.php"
+			],
+			[
+				"app.bl",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"web.",
+				"routes/web.php"
+			],
+			[
+				"app.scs",
+				"resources/assets/sass/app.scss"
+			],
+			[
+				"app.bla",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"homecontr",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"app.blade",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"products",
+				"app/Http/Controllers/ProductsController.php"
+			],
+			[
+				"edit.bl",
+				"resources/views/products/edit.blade.php"
+			],
+			[
+				"index.bla",
+				"resources/views/products/index.blade.php"
+			],
+			[
+				"create.bla",
+				"resources/views/products/create.blade.php"
+			],
+			[
+				"index.bal",
+				"resources/views/products/index.blade.php"
+			],
+			[
+				"app.sc",
+				"resources/assets/sass/app.scss"
+			],
+			[
+				"product",
+				"app/Product.php"
+			],
+			[
+				"productscon",
+				"app/Http/Controllers/ProductsController.php"
+			],
+			[
+				".env",
+				".env"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/ecommercel.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
