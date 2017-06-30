@@ -14,7 +14,7 @@ class OrdersController extends Controller
 {
 
     public function __construct() {
-        $this->middleware('auth', ['except' => 'show']);
+        $this->middleware('auth', ['except' => ['show', 'store']]);
         $this->middleware('shoppingCart');
     }
     /**
@@ -43,6 +43,7 @@ class OrdersController extends Controller
      */
     public function store(Request $request)
     {
+
         $shopping_cart = $request->shopping_cart;
 
         $paypal = new PayPal($shopping_cart);

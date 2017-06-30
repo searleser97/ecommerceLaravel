@@ -121,6 +121,9 @@
 			]
 		]
 	},
+	"buffers":
+	[
+	],
 	"build_system": "",
 	"build_system_choices":
 	[
@@ -128,17 +131,13 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 210.0,
-		"last_filter": "remove",
+		"height": 354.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
-				"remove",
-				"Package Control: Remove Package"
-			],
-			[
-				"color",
-				"Color Picker"
+				"laravel",
+				"Laravel Artisan 5: Serve"
 			],
 			[
 				"insta",
@@ -149,8 +148,40 @@
 				"Package Control: Install Package"
 			],
 			[
+				"formatter",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"beut",
+				"PHP CodeBeautifier"
+			],
+			[
 				"remo",
 				"Package Control: Remove Package"
+			],
+			[
+				"blade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"php",
+				"PHPCompanion:Import Namespace"
+			],
+			[
+				"find",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"color",
+				"Color Picker"
 			],
 			[
 				"",
@@ -169,7 +200,7 @@
 				"Install Package Control"
 			]
 		],
-		"width": 449.0
+		"width": 861.0
 	},
 	"console":
 	{
@@ -187,8 +218,18 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/san/GIT/ecommerceLaravel"
+	],
 	"file_history":
 	[
+		"/media/san/D0A8DE65A8DE4A1C/Home/GIT/ecommerceLaravel/.env",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Controllers/InShoppingCartsController.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Controllers/OrdersController.php",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/home.blade.php",
+		"/home/san/.config/sublime-text-3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/InShoppingCart.php",
 		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/assets/js/app.js",
 		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/inShoppingCarts/form.blade.php",
 		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/main/home.blade.php",
@@ -206,7 +247,6 @@
 		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Controllers/ProductsController.php",
 		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/database/migrations/2017_06_30_055414_add_column_extension_to_products.php",
 		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/shoppingCarts/form.blade.php",
-		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Controllers/OrdersController.php",
 		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Providers/EventServiceProvider.php",
 		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Mail/OrderCreated.php",
 		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Order.php",
@@ -220,7 +260,6 @@
 		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Middleware/ValidateSignUp.php",
 		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Middleware/VerifyCsrfToken.php",
 		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Middleware/BuildShoppingCart.php",
-		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Controllers/InShoppingCartsController.php",
 		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/resources/views/layouts/app.blade.php",
 		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Kernel.php",
 		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Middleware/ValidateFirstUserSignUp.php",
@@ -318,6 +357,14 @@
 		"whole_word": true,
 		"wrap": false
 	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
 	"incremental_find":
 	{
 		"height": 28.0
@@ -349,11 +396,16 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 140.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
 	"pinned_build_system": "",
+	"project": "ecommerce.sublime-project",
 	"replace":
 	{
 		"height": 52.0
@@ -366,16 +418,16 @@
 		"selected_items":
 		[
 			[
+				"web.php",
+				"routes/web.php"
+			],
+			[
 				"app.scss",
 				"resources/assets/sass/app.scss"
 			],
 			[
 				"app.cs",
 				"public/css/app.css"
-			],
-			[
-				"web.php",
-				"routes/web.php"
 			],
 			[
 				"shoppingc",
@@ -498,6 +550,7 @@
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},
