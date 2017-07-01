@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"sho",
+				"shopping_cart"
+			],
+			[
+				"pro",
+				"products\t(PayPal.php)"
+			],
+			[
+				"shop",
+				"shopping_cart_id"
+			],
+			[
+				"produ",
+				"productsCount\t(InShoppingCartsController.php)"
+			],
+			[
 				"z",
 				"z-index"
 			],
@@ -56,18 +72,6 @@
 				"ShoppingCart"
 			],
 			[
-				"shop",
-				"shopping_cart"
-			],
-			[
-				"produ",
-				"product_id"
-			],
-			[
-				"sho",
-				"shopping_cart"
-			],
-			[
 				"col",
 				"color"
 			],
@@ -78,10 +82,6 @@
 			[
 				"wid",
 				"width"
-			],
-			[
-				"pro",
-				"product"
 			],
 			[
 				"prod",
@@ -121,9 +121,6 @@
 			]
 		]
 	},
-	"buffers":
-	[
-	],
 	"build_system": "",
 	"build_system_choices":
 	[
@@ -218,12 +215,14 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/home/san/GIT/ecommerceLaravel"
-	],
 	"file_history":
 	[
+		"/home/san/GIT/ecommerceLaravel/resources/views/layouts/app.blade.php",
+		"/home/san/GIT/ecommerceLaravel/app/Http/Controllers/OrdersController.php",
+		"/home/san/GIT/ecommerceLaravel/app/Order.php",
+		"/home/san/GIT/ecommerceLaravel/app/PayPal.php",
+		"/home/san/GIT/ecommerceLaravel/app/Http/Middleware/BuildShoppingCart.php",
+		"/home/san/GIT/ecommerceLaravel/app/Http/Controllers/ShoppingCartsController.php",
 		"/media/san/D0A8DE65A8DE4A1C/Home/GIT/ecommerceLaravel/.env",
 		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Controllers/InShoppingCartsController.php",
 		"/media/san/D0A8DE65A8DE4A1C/Home/Laravel/ecommerce/app/Http/Controllers/OrdersController.php",
@@ -357,14 +356,6 @@
 		"whole_word": true,
 		"wrap": false
 	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 28.0
@@ -405,7 +396,6 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "ecommerce.sublime-project",
 	"replace":
 	{
 		"height": 52.0
@@ -417,6 +407,18 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"resources/app.blade",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"resources/app",
+				"resources/assets/js/app.js"
+			],
+			[
+				"inshop",
+				"app/InShoppingCart.php"
+			],
 			[
 				"web.php",
 				"routes/web.php"
@@ -550,7 +552,6 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
 	"settings":
 	{
 	},

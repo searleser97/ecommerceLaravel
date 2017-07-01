@@ -23,12 +23,17 @@ class InShoppingCartsController extends Controller
     public function store(Request $request)
     {
         $shopping_cart = $request->shopping_cart;
-        
 
         $response = InShoppingCart::create([
             'shopping_cart_id' => $shopping_cart->id,
             'product_id' => $request->product_id
         ]);
+
+        if($request->ajax()) {
+            return response()->json([
+                "productsCount" => InShoppingCart::productsCount($shopping_cart->id)
+                ]);
+        }
 
         if($response) {
             return redirect('/carrito');

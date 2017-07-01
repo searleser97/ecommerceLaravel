@@ -31,12 +31,14 @@ $(document).ready(function() {
             url: form.attr('action'),
             method: form.attr('method'),
             data: form.serialize(),
+            dataType: 'JSON',
             beforeSend: function() {
                 button.val('Loading...');
             },
-            success: function() {
+            success: function(data) {
                 button.css('background-color', '#00c853').val('Added');
-
+                console.log(data);
+                $('.circle-shopping-cart').html(data.productsCount);
                 setTimeout(function() {
                     restartButton(button);
                 }, 2000);

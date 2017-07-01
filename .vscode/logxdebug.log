@@ -1,0 +1,52 @@
+Log opened at 2017-07-01 00:52:15
+I: Connecting to configured address/port: 127.0.0.1:8000.
+I: Connected to client. :-)
+-> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="http://xdebug.org/dbgp/xdebug" fileuri="file:///home/san/GIT/ecommerceLaravel/.vscode/launch.json" language="PHP" xdebug:language_version="7.0.4-5ubuntu1" protocol_version="1.0" appid="24448" idekey="san"><engine version="2.4.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[http://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2016 by Derick Rethans]]></copyright></init>
+
+<- breakpoint_list -i 1
+-> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="http://xdebug.org/dbgp/xdebug" command="breakpoint_list" transaction_id="1"></response>
+
+<- breakpoint_set -i 2 -t line -f file:///home/san/GIT/ecommerceLaravel/app/Http/Controllers/ShoppingCartsController.php -n 21
+-> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="http://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="2" id="244480001"></response>
+
+<- breakpoint_list -i 3
+-> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="http://xdebug.org/dbgp/xdebug" command="breakpoint_list" transaction_id="3"><breakpoint type="line" filename="file:///home/san/GIT/ecommerceLaravel/app/Http/Controllers/ShoppingCartsController.php" lineno="21" state="enabled" hit_count="0" hit_value="0" id="244480001"></breakpoint></response>
+
+<- breakpoint_list -i 4
+-> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="http://xdebug.org/dbgp/xdebug" command="breakpoint_list" transaction_id="4"><breakpoint type="line" filename="file:///home/san/GIT/ecommerceLaravel/app/Http/Controllers/ShoppingCartsController.php" lineno="21" state="enabled" hit_count="0" hit_value="0" id="244480001"></breakpoint></response>
+
+<- breakpoint_set -i 5 -t exception -x *
+-> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="http://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="5" id="244480002"></response>
+
+<- run -i 6
+-> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="http://xdebug.org/dbgp/xdebug" command="run" transaction_id="6" status="stopping" reason="ok"></response>
+
+<- stop -i 7
+-> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="http://xdebug.org/dbgp/xdebug" command="stop" transaction_id="7" status="stopped" reason="ok"></response>
+
+Log closed at 2017-07-01 00:52:15
+
+Log opened at 2017-07-01 00:52:25
+I: Connecting to configured address/port: 127.0.0.1:8000.
+I: Connected to client. :-)
+-> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="http://xdebug.org/dbgp/xdebug" fileuri="file:///home/san/GIT/ecommerceLaravel/.vscode/launch.json" language="PHP" xdebug:language_version="7.0.4-5ubuntu1" protocol_version="1.0" appid="24468" idekey="san"><engine version="2.4.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[http://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2016 by Derick Rethans]]></copyright></init>
+
+-> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="http://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+Log closed at 2017-07-01 00:52:25
+
+Log opened at 2017-07-01 00:52:57
+I: Connecting to configured address/port: 127.0.0.1:8000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 00:52:57
+
+Log opened at 2017-07-01 00:55:39
+I: Connecting to configured address/port: 127.0.0.1:8000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 00:55:39
+
+Log opened at 2017-07-01 00:57:16
+I: Connecting to configured address/port: 127.0.0.1:8000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 00:57:16
+
