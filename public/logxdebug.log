@@ -43,3 +43,478 @@ I: Connecting to configured address/port: 127.0.0.1:8000.
 E: Could not connect to client. :-(
 Log closed at 2017-07-01 01:01:46
 
+Log opened at 2017-07-01 01:12:18
+I: Connecting to configured address/port: 127.0.0.1:8000.
+I: Connected to client. :-)
+-> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="http://xdebug.org/dbgp/xdebug" fileuri="file:///home/san/GIT/ecommerceLaravel/server.php" language="PHP" xdebug:language_version="7.0.4-5ubuntu1" protocol_version="1.0" appid="26252" idekey="san"><engine version="2.4.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[http://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2016 by Derick Rethans]]></copyright></init>
+
+Log opened at 2017-07-01 01:17:24
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 01:17:24
+
+Log opened at 2017-07-01 01:17:25
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 01:17:25
+
+Log opened at 2017-07-01 01:17:25
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 01:17:25
+
+Log opened at 2017-07-01 01:17:25
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 01:17:25
+
+Log opened at 2017-07-01 01:17:25
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 01:17:25
+
+Log opened at 2017-07-01 01:17:25
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 01:17:25
+
+Log opened at 2017-07-01 01:17:25
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 01:17:25
+
+Log opened at 2017-07-01 01:17:25
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 01:17:25
+
+Log opened at 2017-07-01 05:48:56
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:48:56
+
+Log opened at 2017-07-01 05:48:57
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:48:57
+
+Log opened at 2017-07-01 05:49:15
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:49:15
+
+Log opened at 2017-07-01 05:49:15
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:49:15
+
+Log opened at 2017-07-01 05:49:53
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:49:53
+
+Log opened at 2017-07-01 05:49:53
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:49:53
+
+Log opened at 2017-07-01 05:49:54
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:49:54
+
+Log opened at 2017-07-01 05:49:54
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:49:54
+
+Log opened at 2017-07-01 05:49:54
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:49:54
+
+Log opened at 2017-07-01 05:49:54
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:49:54
+
+Log opened at 2017-07-01 05:51:22
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:51:22
+
+Log opened at 2017-07-01 05:51:22
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:51:22
+
+Log opened at 2017-07-01 05:51:22
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:51:22
+
+Log opened at 2017-07-01 05:51:25
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:51:25
+
+Log opened at 2017-07-01 05:51:25
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:51:25
+
+Log opened at 2017-07-01 05:51:25
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:51:25
+
+Log opened at 2017-07-01 05:57:48
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:57:48
+
+Log opened at 2017-07-01 05:57:58
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:57:58
+
+Log opened at 2017-07-01 05:57:58
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:57:58
+
+Log opened at 2017-07-01 05:57:58
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:57:58
+
+Log opened at 2017-07-01 05:58:01
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:58:01
+
+Log opened at 2017-07-01 05:58:45
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:58:45
+
+Log opened at 2017-07-01 05:58:45
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:58:45
+
+Log opened at 2017-07-01 05:58:45
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:58:45
+
+Log opened at 2017-07-01 05:58:45
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:58:45
+
+Log opened at 2017-07-01 05:58:45
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:58:45
+
+Log opened at 2017-07-01 05:58:59
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:58:59
+
+Log opened at 2017-07-01 05:58:59
+Log opened at 2017-07-01 05:58:59
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:58:59
+
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:58:59
+
+Log opened at 2017-07-01 05:58:59
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:58:59
+
+Log opened at 2017-07-01 05:58:59
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 05:58:59
+
+Log opened at 2017-07-01 06:00:24
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 06:00:24
+
+Log opened at 2017-07-01 06:00:31
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 06:00:31
+
+Log opened at 2017-07-01 06:00:31
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 06:00:31
+
+Log opened at 2017-07-01 06:00:31
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 06:00:31
+
+Log opened at 2017-07-01 06:02:59
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 06:02:59
+
+Log opened at 2017-07-01 06:03:32
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 06:03:32
+
+Log opened at 2017-07-01 06:03:37
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 06:03:37
+
+Log opened at 2017-07-01 06:04:03
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 06:04:03
+
+Log opened at 2017-07-01 06:04:10
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 06:04:10
+
+Log opened at 2017-07-01 06:04:10
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 06:04:10
+
+Log opened at 2017-07-01 06:04:10
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-01 06:04:10
+
+Log opened at 2017-07-02 14:44:32
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:44:32
+
+Log opened at 2017-07-02 14:44:41
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:44:41
+
+Log opened at 2017-07-02 14:44:41
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:44:41
+
+Log opened at 2017-07-02 14:50:40
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:50:40
+
+Log opened at 2017-07-02 14:50:40
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:50:40
+
+Log opened at 2017-07-02 14:50:40
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:50:40
+
+Log opened at 2017-07-02 14:50:43
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:50:43
+
+Log opened at 2017-07-02 14:50:43
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:50:43
+
+Log opened at 2017-07-02 14:50:43
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:50:43
+
+Log opened at 2017-07-02 14:50:46
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:50:46
+
+Log opened at 2017-07-02 14:50:47
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:50:47
+
+Log opened at 2017-07-02 14:50:49
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:50:49
+
+Log opened at 2017-07-02 14:51:03
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:51:03
+
+Log opened at 2017-07-02 14:51:03
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:51:03
+
+Log opened at 2017-07-02 14:51:03
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:51:03
+
+Log opened at 2017-07-02 14:51:17
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:51:17
+
+Log opened at 2017-07-02 14:53:50
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:53:50
+
+Log opened at 2017-07-02 14:53:50
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:53:50
+
+Log opened at 2017-07-02 14:53:50
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:53:50
+
+Log opened at 2017-07-02 14:53:55
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:53:55
+
+Log opened at 2017-07-02 14:55:56
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:55:56
+
+Log opened at 2017-07-02 14:58:11
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:58:11
+
+Log opened at 2017-07-02 14:58:55
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:58:55
+
+Log opened at 2017-07-02 14:59:26
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:59:26
+
+Log opened at 2017-07-02 14:59:30
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:59:30
+
+Log opened at 2017-07-02 14:59:30
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:59:30
+
+Log opened at 2017-07-02 14:59:30
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 14:59:30
+
+Log opened at 2017-07-02 15:02:44
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 15:02:44
+
+Log opened at 2017-07-02 15:02:44
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 15:02:44
+
+Log opened at 2017-07-02 15:02:44
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 15:02:44
+
+Log opened at 2017-07-02 15:02:48
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 15:02:48
+
+Log opened at 2017-07-02 15:06:15
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 15:06:15
+
+Log opened at 2017-07-02 15:06:59
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 15:06:59
+
+Log opened at 2017-07-02 15:09:37
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 15:09:37
+
+Log opened at 2017-07-02 15:10:45
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 15:10:45
+
+Log opened at 2017-07-02 15:10:46
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 15:10:46
+
+Log opened at 2017-07-02 15:10:46
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 15:10:46
+
+Log opened at 2017-07-02 15:11:13
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 15:11:13
+
+Log opened at 2017-07-02 15:15:56
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 15:15:56
+
+Log opened at 2017-07-02 15:15:56
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 15:15:56
+
+Log opened at 2017-07-02 15:15:56
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 15:15:56
+
+Log opened at 2017-07-02 15:16:27
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 15:16:27
+
+Log opened at 2017-07-02 15:16:27
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 15:16:27
+
+Log opened at 2017-07-02 15:16:27
+I: Connecting to configured address/port: localhost:9000.
+E: Could not connect to client. :-(
+Log closed at 2017-07-02 15:16:27
+
